@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpEngine.Python", "SharpEngine.Python\SharpEngine.Python.csproj", "{1147BEA8-23AB-48CF-8712-380FB11F3065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{22204917-F67B-48AA-BDD1-6E9D29017FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1147BEA8-23AB-48CF-8712-380FB11F3065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1147BEA8-23AB-48CF-8712-380FB11F3065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1147BEA8-23AB-48CF-8712-380FB11F3065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1147BEA8-23AB-48CF-8712-380FB11F3065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22204917-F67B-48AA-BDD1-6E9D29017FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22204917-F67B-48AA-BDD1-6E9D29017FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22204917-F67B-48AA-BDD1-6E9D29017FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22204917-F67B-48AA-BDD1-6E9D29017FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
