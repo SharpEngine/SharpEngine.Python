@@ -16,7 +16,6 @@ internal class Person
     public string GetFullName() => FirstName + " " + LastName;
 }
 
-
 public static class Program
 {
     public static void Main(string[] argv)
