@@ -20,7 +20,7 @@ public static class Program
 {
     public static void Main(string[] argv)
     {
-        Runtime.PythonDLL = @"C:\Users\Admin\AppData\Local\Programs\Python\Python311\python311.dll";
+        Runtime.PythonDLL = @"C:\Users\lavap\AppData\Local\Programs\Python\Python312\python312.dll";
         PythonEngine.Initialize();
 
         using (Py.GIL())
@@ -32,6 +32,5 @@ public static class Program
                 scope.Exec("print(Person('Lilith', 'Winterlight').GetFullName())");
             }
         }
-        PythonEngine.Shutdown();
     }
 }
